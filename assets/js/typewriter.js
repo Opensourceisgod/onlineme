@@ -68,3 +68,12 @@ var typer = document.getElementById('typewriter');
 typewriter = setupTypewriter(typewriter);
 
 typewriter.type();
+
+const me = {
+    name: 'Prabh Saini',
+    location: 'Victoria, Australia',
+    age: '15',
+    interests: ['Web Development',
+                'Science',
+                'Math']
+};
